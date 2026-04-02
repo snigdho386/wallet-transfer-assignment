@@ -374,8 +374,12 @@ Focus on correctness and clarity.
 
 You are free to use AI tools responsibly. 
 
-Please include a note in your PR about how you used AI and what prompts you used. Good use of AI to 
-create a quality solution is a plus point. Blindly using it to solve the entire problem is not. 
+Please include a note in your PR about how you used AI. The note should include the following. Please double check and ensure that these points are all covered in the PR. 
+1. What tool you used (Cursor, Claude Code, Antigratvity etc.)
+2. How you generally use the tool for your work.
+3. A transcript of your entire session with your AI tool of choice. You can add this to the repo or email it to us with your submission. If for some reason, this is not possible, give us all the prompts that you used with the AI.
+
+Good use of AI to create a quality solution is a plus point. Blindly using it to solve the entire problem is not. 
 
 We will have a short discussion on your PR and you should be able to to explain the PR and what all you did.
 
