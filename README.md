@@ -217,8 +217,6 @@ mvn test
 - Phase 5: Testing (unit tests for domain entities and state machine)
 - Phase 6: Documentation (this README, IMPLEMENTATION_SUMMARY.md)
 
-**Session Transcript**: Available in `.github/copilot-session-transcript.json`
-
 ## Next Steps
 
 ### For Development
